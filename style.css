@@ -46,7 +46,11 @@ section > li {
   margin-left: 28px;
 }
 
-ol {
+ul > li {
+  margin-left: 16px;
+}
+
+ol, ul {
   padding-left: 0;
   margin-left: 0;
 }
