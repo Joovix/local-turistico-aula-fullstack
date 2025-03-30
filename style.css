@@ -23,7 +23,7 @@ main img {
   border-radius: 25px;
   width: 100%;
   object-fit: cover;
-  margin-top: 44px;
+  margin-top: 40px;
 
 }
 
@@ -105,4 +105,17 @@ ul li{
 ul {
   font-weight: bold;
 }
+
+#casais {
+  color: #591B98;
+}
+
+#familias {
+  color: #E5245E;
+}
+
+#orcamento {
+  color: #E95E10;
+}
+
 
